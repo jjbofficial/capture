@@ -218,6 +218,12 @@ main header span {
 	}
 }
 
+@media (min-width: 1480px) {
+	main header h1 {
+		font-size: 6em;
+	}
+}
+
 /**** Main : About ***/
 
 .about {
