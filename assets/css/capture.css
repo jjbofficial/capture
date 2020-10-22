@@ -261,6 +261,12 @@ main header span {
 	}
 }
 
+@media(min-width: 1650px) {
+	.about {
+		padding-top: 6em;
+		padding-bottom: 6em;
+	}
+}
 
 /*** Main : gallery ***/
 
